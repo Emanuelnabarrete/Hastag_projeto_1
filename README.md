@@ -2,7 +2,7 @@
 
 Estou participando de um projeto de 4 dias da escola de tecnologia Hashtag.
 
-No primeiro dia, aprendi a automatizar uma tarefa usando Python. Usei as bibliotecas pyautogui e pandas para escrever o código.
+No primeiro dia, aprendi a automatizar uma tarefa usando Python. Usei as bibliotecas pyautogui, pandas e time para escrever o código.
 
 Usei algumas funções das bibliotecas e exercitei minha lógica de programação.
 
@@ -10,6 +10,7 @@ Usei algumas funções das bibliotecas e exercitei minha lógica de programaçã
 .press
 .scroll
 .click
+.sleep
 
 1/4
 
